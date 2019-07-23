@@ -1,0 +1,815 @@
+TANGGAL,KOMODITI,HARGA
+02/01/2018,Beras,11340
+02/01/2018,Gula Pasir,13740
+02/01/2018,Minyak Goreng Bimoli Botol,14040
+02/01/2018,Minyak Goreng Curah,12388
+02/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+02/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+02/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),89167
+02/01/2018,Daging Sapi, Lokal, Daging, Tetelan,70833
+02/01/2018,Daging Sapi, Impor, Beku,120000
+02/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+02/01/2018,Ayam Boiler,39740
+02/01/2018,Ayam Kampung,55075
+02/01/2018,Telur Ayam Ras,26150
+02/01/2018,Telur Ayam Kampung,2100
+02/01/2018,Susu Kental Manis Kaleng Merk Bendera,12340
+02/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+02/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+02/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+02/01/2018,Jagung Pipilan Kecil,16833
+02/01/2018,Garam Beryodium Bata,3220
+02/01/2018,Garam Beryodium Halus,11260
+02/01/2018,Tepung Terigu Segitiga Biru,10160
+02/01/2018,Kacang Kedelai Eks impor,12300
+02/01/2018,Kacang Kedelai Lokal,3333
+02/01/2018,Mie Instan Indomie Rasa Kari Ayam,2740
+02/01/2018,Cabe Merah Keriting,37140
+02/01/2018,Cabe Merah Besar,37260
+02/01/2018,Cabe Rawit Merah,56240
+02/01/2018,Cabe Rawit Hijau,34800
+02/01/2018,Bawang Merah (Medium),26800
+02/01/2018,Bawang Putih Impor (Kating),28560
+02/01/2018,Bawang Putih Impor (Honan),25000
+02/01/2018,Ikan Teri Asin,109400
+02/01/2018,Ikan Kembung,36660
+02/01/2018,Kacang Hijau,22340
+02/01/2018,Kacang Tanah,25500
+02/01/2018,Ketela Pohon,5060
+03/01/2018,Beras,11440
+03/01/2018,Gula Pasir,13840
+03/01/2018,Minyak Goreng Bimoli Botol,14240
+03/01/2018,Minyak Goreng Curah,12450
+03/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+03/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),117500
+03/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),89167
+03/01/2018,Daging Sapi, Lokal, Daging, Tetelan,75000
+03/01/2018,Daging Sapi, Impor, Beku,120000
+03/01/2018,Daging Sapi, Lokal, Has Dalam,141667
+03/01/2018,Ayam Boiler,38940
+03/01/2018,Ayam Kampung,55075
+03/01/2018,Telur Ayam Ras,26200
+03/01/2018,Telur Ayam Kampung,2150
+03/01/2018,Susu Kental Manis Kaleng Merk Bendera,12240
+03/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10400
+03/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+03/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+03/01/2018,Jagung Pipilan Kecil,16833
+03/01/2018,Garam Beryodium Bata,3320
+03/01/2018,Garam Beryodium Halus,10660
+03/01/2018,Tepung Terigu Segitiga Biru,10360
+03/01/2018,Kacang Kedelai Eks impor,12300
+03/01/2018,Kacang Kedelai Lokal,3333
+03/01/2018,Mie Instan Indomie Rasa Kari Ayam,2740
+03/01/2018,Cabe Merah Keriting,38640
+03/01/2018,Cabe Merah Besar,37260
+03/01/2018,Cabe Rawit Merah,58240
+03/01/2018,Cabe Rawit Hijau,35300
+03/01/2018,Bawang Merah (Medium),27800
+03/01/2018,Bawang Putih Impor (Kating),30260
+03/01/2018,Bawang Putih Impor (Honan),25000
+03/01/2018,Ikan Teri Asin,108400
+03/01/2018,Ikan Kembung,35660
+03/01/2018,Kacang Hijau,22540
+03/01/2018,Kacang Tanah,25700
+03/01/2018,Ketela Pohon,5060
+04/01/2018,Beras,11490
+04/01/2018,Gula Pasir,13390
+04/01/2018,Minyak Goreng Bimoli Botol,14240
+04/01/2018,Minyak Goreng Curah,12575
+04/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+04/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+04/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),95000
+04/01/2018,Daging Sapi, Lokal, Daging, Tetelan,80000
+04/01/2018,Daging Sapi, Impor, Beku,120000
+04/01/2018,Daging Sapi, Lokal, Has Dalam,146667
+04/01/2018,Ayam Boiler,37440
+04/01/2018,Ayam Kampung,53825
+04/01/2018,Telur Ayam Ras,26300
+04/01/2018,Telur Ayam Kampung,2100
+04/01/2018,Susu Kental Manis Kaleng Merk Bendera,11940
+04/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10600
+04/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+04/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+04/01/2018,Jagung Pipilan Kecil,16833
+04/01/2018,Garam Beryodium Bata,3000
+04/01/2018,Garam Beryodium Halus,13060
+04/01/2018,Tepung Terigu Segitiga Biru,9860
+04/01/2018,Kacang Kedelai Eks impor,12050
+04/01/2018,Kacang Kedelai Lokal,3333
+04/01/2018,Mie Instan Indomie Rasa Kari Ayam,2740
+04/01/2018,Cabe Merah Keriting,39340
+04/01/2018,Cabe Merah Besar,39260
+04/01/2018,Cabe Rawit Merah,61140
+04/01/2018,Cabe Rawit Hijau,41400
+04/01/2018,Bawang Merah (Medium),28400
+04/01/2018,Bawang Putih Impor (Kating),28660
+04/01/2018,Bawang Putih Impor (Honan),27500
+04/01/2018,Ikan Teri Asin,106000
+04/01/2018,Ikan Kembung,35860
+04/01/2018,Kacang Hijau,22540
+04/01/2018,Kacang Tanah,25600
+04/01/2018,Ketela Pohon,5060
+05/01/2018,Beras,11740
+05/01/2018,Gula Pasir,13640
+05/01/2018,Minyak Goreng Bimoli Botol,14040
+05/01/2018,Minyak Goreng Curah,12200
+05/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+05/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+05/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),102500
+05/01/2018,Daging Sapi, Lokal, Daging, Tetelan,76667
+05/01/2018,Daging Sapi, Impor, Beku,120000
+05/01/2018,Daging Sapi, Lokal, Has Dalam,146667
+05/01/2018,Ayam Boiler,36940
+05/01/2018,Ayam Kampung,78825
+05/01/2018,Telur Ayam Ras,26450
+05/01/2018,Telur Ayam Kampung,2120
+05/01/2018,Susu Kental Manis Kaleng Merk Bendera,11940
+05/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+05/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+05/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+05/01/2018,Jagung Pipilan Kecil,15167
+05/01/2018,Garam Beryodium Bata,3100
+05/01/2018,Garam Beryodium Halus,11260
+05/01/2018,Tepung Terigu Segitiga Biru,9610
+05/01/2018,Kacang Kedelai Eks impor,12800
+05/01/2018,Kacang Kedelai Lokal,3333
+05/01/2018,Mie Instan Indomie Rasa Kari Ayam,2800
+05/01/2018,Cabe Merah Keriting,42340
+05/01/2018,Cabe Merah Besar,40260
+05/01/2018,Cabe Rawit Merah,57340
+05/01/2018,Cabe Rawit Hijau,40400
+05/01/2018,Bawang Merah (Medium),27900
+05/01/2018,Bawang Putih Impor (Kating),28960
+05/01/2018,Bawang Putih Impor (Honan),27500
+05/01/2018,Ikan Teri Asin,102000
+05/01/2018,Ikan Kembung,35360
+05/01/2018,Kacang Hijau,23200
+05/01/2018,Kacang Tanah,25700
+05/01/2018,Ketela Pohon,4960
+08/01/2018,Beras,11740
+08/01/2018,Gula Pasir,13640
+08/01/2018,Minyak Goreng Bimoli Botol,13440
+08/01/2018,Minyak Goreng Curah,12200
+08/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+08/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+08/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),102500
+08/01/2018,Daging Sapi, Lokal, Daging, Tetelan,76667
+08/01/2018,Daging Sapi, Impor, Beku,120000
+08/01/2018,Daging Sapi, Lokal, Has Dalam,146667
+08/01/2018,Ayam Boiler,36940
+08/01/2018,Ayam Kampung,77575
+08/01/2018,Telur Ayam Ras,26450
+08/01/2018,Telur Ayam Kampung,2120
+08/01/2018,Susu Kental Manis Kaleng Merk Bendera,11940
+08/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+08/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+08/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+08/01/2018,Jagung Pipilan Kecil,15167
+08/01/2018,Garam Beryodium Bata,3120
+08/01/2018,Garam Beryodium Halus,11460
+08/01/2018,Tepung Terigu Segitiga Biru,9610
+08/01/2018,Kacang Kedelai Eks impor,12800
+08/01/2018,Kacang Kedelai Lokal,3333
+08/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+08/01/2018,Cabe Merah Keriting,42340
+08/01/2018,Cabe Merah Besar,40260
+08/01/2018,Cabe Rawit Merah,57340
+08/01/2018,Cabe Rawit Hijau,40400
+08/01/2018,Bawang Merah (Medium),27900
+08/01/2018,Bawang Putih Impor (Kating),28960
+08/01/2018,Bawang Putih Impor (Honan),27500
+08/01/2018,Ikan Teri Asin,102000
+08/01/2018,Ikan Kembung,35360
+08/01/2018,Kacang Hijau,23200
+08/01/2018,Kacang Tanah,25700
+08/01/2018,Ketela Pohon,4960
+09/01/2018,Beras,11480
+09/01/2018,Gula Pasir,13540
+09/01/2018,Minyak Goreng Bimoli Botol,13400
+09/01/2018,Minyak Goreng Curah,12625
+09/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+09/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),116667
+09/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),95000
+09/01/2018,Daging Sapi, Lokal, Daging, Tetelan,81667
+09/01/2018,Daging Sapi, Impor, Beku,120000
+09/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+09/01/2018,Ayam Boiler,37300
+09/01/2018,Ayam Kampung,82100
+09/01/2018,Telur Ayam Ras,26260
+09/01/2018,Telur Ayam Kampung,2110
+09/01/2018,Susu Kental Manis Kaleng Merk Bendera,11960
+09/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10440
+09/01/2018,Susu Bubuk Kaleng Merk Bendera,44167
+09/01/2018,Susu Bubuk Kaleng Merk Indomilk,42500
+09/01/2018,Jagung Pipilan Kecil,15167
+09/01/2018,Garam Beryodium Bata,3520
+09/01/2018,Garam Beryodium Halus,12300
+09/01/2018,Tepung Terigu Segitiga Biru,9840
+09/01/2018,Kacang Kedelai Eks impor,12175
+09/01/2018,Kacang Kedelai Lokal,3667
+09/01/2018,Mie Instan Indomie Rasa Kari Ayam,2320
+09/01/2018,Cabe Merah Keriting,38600
+09/01/2018,Cabe Merah Besar,39340
+09/01/2018,Cabe Rawit Merah,54340
+09/01/2018,Cabe Rawit Hijau,38440
+09/01/2018,Bawang Merah (Medium),28100
+09/01/2018,Bawang Putih Impor (Kating),28340
+09/01/2018,Bawang Putih Impor (Honan),28500
+09/01/2018,Ikan Teri Asin,105200
+09/01/2018,Ikan Kembung,36660
+09/01/2018,Kacang Hijau,23340
+09/01/2018,Kacang Tanah,26300
+09/01/2018,Ketela Pohon,4900
+10/01/2018,Beras,11620
+10/01/2018,Gula Pasir,13600
+10/01/2018,Minyak Goreng Bimoli Botol,13640
+10/01/2018,Minyak Goreng Curah,12300
+10/01/2018,Daging Sapi, Lokal, Paha Belakang,118660
+10/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+10/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),98333
+10/01/2018,Daging Sapi, Lokal, Daging, Tetelan,65833
+10/01/2018,Daging Sapi, Impor, Beku,120000
+10/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+10/01/2018,Ayam Boiler,36260
+10/01/2018,Ayam Kampung,84000
+10/01/2018,Telur Ayam Ras,26000
+10/01/2018,Telur Ayam Kampung,2160
+10/01/2018,Susu Kental Manis Kaleng Merk Bendera,12060
+10/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+10/01/2018,Susu Bubuk Kaleng Merk Bendera,44167
+10/01/2018,Susu Bubuk Kaleng Merk Indomilk,42400
+10/01/2018,Jagung Pipilan Kecil,15167
+10/01/2018,Garam Beryodium Bata,3720
+10/01/2018,Garam Beryodium Halus,12660
+10/01/2018,Tepung Terigu Segitiga Biru,9900
+10/01/2018,Kacang Kedelai Eks impor,12375
+10/01/2018,Kacang Kedelai Lokal,3667
+10/01/2018,Mie Instan Indomie Rasa Kari Ayam,2360
+10/01/2018,Cabe Merah Keriting,42860
+10/01/2018,Cabe Merah Besar,40040
+10/01/2018,Cabe Rawit Merah,48660
+10/01/2018,Cabe Rawit Hijau,35540
+10/01/2018,Bawang Merah (Medium),28040
+10/01/2018,Bawang Putih Impor (Kating),27140
+10/01/2018,Bawang Putih Impor (Honan),28500
+10/01/2018,Ikan Teri Asin,100660
+10/01/2018,Ikan Kembung,37660
+10/01/2018,Kacang Hijau,23340
+10/01/2018,Kacang Tanah,25600
+10/01/2018,Ketela Pohon,4800
+11/01/2018,Beras,11620
+11/01/2018,Gula Pasir,13600
+11/01/2018,Minyak Goreng Bimoli Botol,13340
+11/01/2018,Minyak Goreng Curah,12363
+11/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+11/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+11/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),101667
+11/01/2018,Daging Sapi, Lokal, Daging, Tetelan,70000
+11/01/2018,Daging Sapi, Impor, Beku,120000
+11/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+11/01/2018,Ayam Boiler,38260
+11/01/2018,Ayam Kampung,79250
+11/01/2018,Telur Ayam Ras,25900
+11/01/2018,Telur Ayam Kampung,2110
+11/01/2018,Susu Kental Manis Kaleng Merk Bendera,11660
+11/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+11/01/2018,Susu Bubuk Kaleng Merk Bendera,44167
+11/01/2018,Susu Bubuk Kaleng Merk Indomilk,42400
+11/01/2018,Jagung Pipilan Kecil,15500
+11/01/2018,Garam Beryodium Bata,3920
+11/01/2018,Garam Beryodium Halus,11460
+11/01/2018,Tepung Terigu Segitiga Biru,10000
+11/01/2018,Kacang Kedelai Eks impor,12500
+11/01/2018,Kacang Kedelai Lokal,3667
+11/01/2018,Mie Instan Indomie Rasa Kari Ayam,2360
+11/01/2018,Cabe Merah Keriting,46860
+11/01/2018,Cabe Merah Besar,42340
+11/01/2018,Cabe Rawit Merah,53660
+11/01/2018,Cabe Rawit Hijau,37040
+11/01/2018,Bawang Merah (Medium),27340
+11/01/2018,Bawang Putih Impor (Kating),27940
+11/01/2018,Bawang Putih Impor (Honan),28500
+11/01/2018,Ikan Teri Asin,101660
+11/01/2018,Ikan Kembung,37660
+11/01/2018,Kacang Hijau,22940
+11/01/2018,Kacang Tanah,25500
+11/01/2018,Ketela Pohon,4800
+12/01/2018,Beras,11520
+12/01/2018,Gula Pasir,13700
+12/01/2018,Minyak Goreng Bimoli Botol,13440
+12/01/2018,Minyak Goreng Curah,12300
+12/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+12/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+12/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),96667
+12/01/2018,Daging Sapi, Lokal, Daging, Tetelan,73333
+12/01/2018,Daging Sapi, Impor, Beku,120000
+12/01/2018,Daging Sapi, Lokal, Has Dalam,142500
+12/01/2018,Ayam Boiler,36260
+12/01/2018,Ayam Kampung,88000
+12/01/2018,Telur Ayam Ras,25700
+12/01/2018,Telur Ayam Kampung,2160
+12/01/2018,Susu Kental Manis Kaleng Merk Bendera,11610
+12/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10300
+12/01/2018,Susu Bubuk Kaleng Merk Bendera,44167
+12/01/2018,Susu Bubuk Kaleng Merk Indomilk,42400
+12/01/2018,Jagung Pipilan Kecil,15500
+12/01/2018,Garam Beryodium Bata,3720
+12/01/2018,Garam Beryodium Halus,11360
+12/01/2018,Tepung Terigu Segitiga Biru,9900
+12/01/2018,Kacang Kedelai Eks impor,12000
+12/01/2018,Kacang Kedelai Lokal,3667
+12/01/2018,Mie Instan Indomie Rasa Kari Ayam,2360
+12/01/2018,Cabe Merah Keriting,44360
+12/01/2018,Cabe Merah Besar,41040
+12/01/2018,Cabe Rawit Merah,49160
+12/01/2018,Cabe Rawit Hijau,38340
+12/01/2018,Bawang Merah (Medium),25640
+12/01/2018,Bawang Putih Impor (Kating),27440
+12/01/2018,Bawang Putih Impor (Honan),26000
+12/01/2018,Ikan Teri Asin,100960
+12/01/2018,Ikan Kembung,37660
+12/01/2018,Kacang Hijau,22240
+12/01/2018,Kacang Tanah,25700
+12/01/2018,Ketela Pohon,4800
+15/01/2018,Beras,12240
+15/01/2018,Gula Pasir,14040
+15/01/2018,Minyak Goreng Bimoli Botol,13510
+15/01/2018,Minyak Goreng Curah,12625
+15/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+15/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),121667
+15/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),101667
+15/01/2018,Daging Sapi, Lokal, Daging, Tetelan,70000
+15/01/2018,Daging Sapi, Impor, Beku,120000
+15/01/2018,Daging Sapi, Lokal, Has Dalam,148333
+15/01/2018,Ayam Boiler,37460
+15/01/2018,Ayam Kampung,85767
+15/01/2018,Telur Ayam Ras,25760
+15/01/2018,Telur Ayam Kampung,2040
+15/01/2018,Susu Kental Manis Kaleng Merk Bendera,12060
+15/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10700
+15/01/2018,Susu Bubuk Kaleng Merk Bendera,44667
+15/01/2018,Susu Bubuk Kaleng Merk Indomilk,43067
+15/01/2018,Jagung Pipilan Kecil,15567
+15/01/2018,Garam Beryodium Bata,3780
+15/01/2018,Garam Beryodium Halus,13100
+15/01/2018,Tepung Terigu Segitiga Biru,10040
+15/01/2018,Kacang Kedelai Eks impor,12050
+15/01/2018,Kacang Kedelai Lokal,3667
+15/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+15/01/2018,Cabe Merah Keriting,44140
+15/01/2018,Cabe Merah Besar,41040
+15/01/2018,Cabe Rawit Merah,56740
+15/01/2018,Cabe Rawit Hijau,42400
+15/01/2018,Bawang Merah (Medium),27600
+15/01/2018,Bawang Putih Impor (Kating),28960
+15/01/2018,Bawang Putih Impor (Honan),25500
+15/01/2018,Ikan Teri Asin,107660
+15/01/2018,Ikan Kembung,37800
+15/01/2018,Kacang Hijau,22660
+15/01/2018,Kacang Tanah,25360
+15/01/2018,Ketela Pohon,4740
+16/01/2018,Beras,12260
+16/01/2018,Gula Pasir,13860
+16/01/2018,Minyak Goreng Bimoli Botol,13490
+16/01/2018,Minyak Goreng Curah,12500
+16/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+16/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),121667
+16/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),98333
+16/01/2018,Daging Sapi, Lokal, Daging, Tetelan,80000
+16/01/2018,Daging Sapi, Impor, Beku,120000
+16/01/2018,Daging Sapi, Lokal, Has Dalam,148333
+16/01/2018,Ayam Boiler,37140
+16/01/2018,Ayam Kampung,81233
+16/01/2018,Telur Ayam Ras,25400
+16/01/2018,Telur Ayam Kampung,1980
+16/01/2018,Susu Kental Manis Kaleng Merk Bendera,12460
+16/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10700
+16/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+16/01/2018,Susu Bubuk Kaleng Merk Indomilk,42433
+16/01/2018,Jagung Pipilan Kecil,15100
+16/01/2018,Garam Beryodium Bata,3220
+16/01/2018,Garam Beryodium Halus,10900
+16/01/2018,Tepung Terigu Segitiga Biru,10040
+16/01/2018,Kacang Kedelai Eks impor,12050
+16/01/2018,Kacang Kedelai Lokal,4000
+16/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+16/01/2018,Cabe Merah Keriting,44860
+16/01/2018,Cabe Merah Besar,41360
+16/01/2018,Cabe Rawit Merah,54260
+16/01/2018,Cabe Rawit Hijau,38200
+16/01/2018,Bawang Merah (Medium),25940
+16/01/2018,Bawang Putih Impor (Kating),28840
+16/01/2018,Bawang Putih Impor (Honan),27500
+16/01/2018,Ikan Teri Asin,105940
+16/01/2018,Ikan Kembung,36660
+16/01/2018,Kacang Hijau,22740
+16/01/2018,Kacang Tanah,25100
+16/01/2018,Ketela Pohon,4800
+17/01/2018,Beras,11710
+17/01/2018,Gula Pasir,13560
+17/01/2018,Minyak Goreng Bimoli Botol,13490
+17/01/2018,Minyak Goreng Curah,12500
+17/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+17/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+17/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),90000
+17/01/2018,Daging Sapi, Lokal, Daging, Tetelan,90000
+17/01/2018,Daging Sapi, Impor, Beku,120000
+17/01/2018,Daging Sapi, Lokal, Has Dalam,146667
+17/01/2018,Ayam Boiler,37540
+17/01/2018,Ayam Kampung,79675
+17/01/2018,Telur Ayam Ras,24900
+17/01/2018,Telur Ayam Kampung,2020
+17/01/2018,Susu Kental Manis Kaleng Merk Bendera,12760
+17/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10700
+17/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+17/01/2018,Susu Bubuk Kaleng Merk Indomilk,42433
+17/01/2018,Jagung Pipilan Kecil,15100
+17/01/2018,Garam Beryodium Bata,3420
+17/01/2018,Garam Beryodium Halus,11100
+17/01/2018,Tepung Terigu Segitiga Biru,9440
+17/01/2018,Kacang Kedelai Eks impor,11675
+17/01/2018,Kacang Kedelai Lokal,4000
+17/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+17/01/2018,Cabe Merah Keriting,42860
+17/01/2018,Cabe Merah Besar,40860
+17/01/2018,Cabe Rawit Merah,53260
+17/01/2018,Cabe Rawit Hijau,42200
+17/01/2018,Bawang Merah (Medium),24140
+17/01/2018,Bawang Putih Impor (Kating),27340
+17/01/2018,Bawang Putih Impor (Honan),22500
+17/01/2018,Ikan Teri Asin,103940
+17/01/2018,Ikan Kembung,35660
+17/01/2018,Kacang Hijau,21740
+17/01/2018,Kacang Tanah,24700
+17/01/2018,Ketela Pohon,4800
+18/01/2018,Beras,10663
+18/01/2018,Gula Pasir,13540
+18/01/2018,Minyak Goreng Bimoli Botol,13560
+18/01/2018,Minyak Goreng Curah,12613
+18/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+18/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),121667
+18/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),93333
+18/01/2018,Daging Sapi, Lokal, Daging, Tetelan,83333
+18/01/2018,Daging Sapi, Impor, Beku,70000
+18/01/2018,Daging Sapi, Lokal, Has Dalam,131667
+18/01/2018,Ayam Boiler,37240
+18/01/2018,Ayam Kampung,74250
+18/01/2018,Telur Ayam Ras,24000
+18/01/2018,Telur Ayam Kampung,2100
+18/01/2018,Susu Kental Manis Kaleng Merk Bendera,11790
+18/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10140
+18/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+18/01/2018,Susu Bubuk Kaleng Merk Indomilk,42433
+18/01/2018,Jagung Pipilan Kecil,15500
+18/01/2018,Garam Beryodium Bata,3510
+18/01/2018,Garam Beryodium Halus,11960
+18/01/2018,Tepung Terigu Segitiga Biru,10240
+18/01/2018,Kacang Kedelai Eks impor,12550
+18/01/2018,Kacang Kedelai Lokal,11000
+18/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+18/01/2018,Cabe Merah Keriting,48200
+18/01/2018,Cabe Merah Besar,46040
+18/01/2018,Cabe Rawit Merah,53760
+18/01/2018,Cabe Rawit Hijau,42760
+18/01/2018,Bawang Merah (Medium),25940
+18/01/2018,Bawang Putih Impor (Kating),28200
+18/01/2018,Bawang Putih Impor (Honan),22500
+18/01/2018,Ikan Teri Asin,108040
+18/01/2018,Ikan Kembung,38860
+18/01/2018,Kacang Hijau,23040
+18/01/2018,Kacang Tanah,24700
+18/01/2018,Ketela Pohon,4800
+19/01/2018,Beras,10925
+19/01/2018,Gula Pasir,13660
+19/01/2018,Minyak Goreng Bimoli Botol,13410
+19/01/2018,Minyak Goreng Curah,12300
+19/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+19/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),116667
+19/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),91667
+19/01/2018,Daging Sapi, Lokal, Daging, Tetelan,70000
+19/01/2018,Daging Sapi, Impor, Beku,70000
+19/01/2018,Daging Sapi, Lokal, Has Dalam,148333
+19/01/2018,Ayam Boiler,38140
+19/01/2018,Ayam Kampung,80667
+19/01/2018,Telur Ayam Ras,23960
+19/01/2018,Telur Ayam Kampung,2090
+19/01/2018,Susu Kental Manis Kaleng Merk Bendera,12460
+19/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10140
+19/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+19/01/2018,Susu Bubuk Kaleng Merk Indomilk,42567
+19/01/2018,Jagung Pipilan Kecil,15500
+19/01/2018,Garam Beryodium Bata,3360
+19/01/2018,Garam Beryodium Halus,10600
+19/01/2018,Tepung Terigu Segitiga Biru,9800
+19/01/2018,Kacang Kedelai Eks impor,12050
+19/01/2018,Kacang Kedelai Lokal,11500
+19/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+19/01/2018,Cabe Merah Keriting,42000
+19/01/2018,Cabe Merah Besar,45540
+19/01/2018,Cabe Rawit Merah,54800
+19/01/2018,Cabe Rawit Hijau,43440
+19/01/2018,Bawang Merah (Medium),26360
+19/01/2018,Bawang Putih Impor (Kating),28600
+19/01/2018,Bawang Putih Impor (Honan),27500
+19/01/2018,Ikan Teri Asin,108800
+19/01/2018,Ikan Kembung,36660
+19/01/2018,Kacang Hijau,21800
+19/01/2018,Kacang Tanah,24700
+19/01/2018,Ketela Pohon,4740
+22/01/2018,Beras,11038
+22/01/2018,Gula Pasir,13750
+22/01/2018,Minyak Goreng Bimoli Botol,13500
+22/01/2018,Minyak Goreng Curah,12875
+22/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+22/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+22/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),96667
+22/01/2018,Daging Sapi, Lokal, Daging, Tetelan,66667
+22/01/2018,Daging Sapi, Impor, Beku,85000
+22/01/2018,Daging Sapi, Lokal, Has Dalam,150000
+22/01/2018,Ayam Boiler,37940
+22/01/2018,Ayam Kampung,80075
+22/01/2018,Telur Ayam Ras,23800
+22/01/2018,Telur Ayam Kampung,2060
+22/01/2018,Susu Kental Manis Kaleng Merk Bendera,11940
+22/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10340
+22/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+22/01/2018,Susu Bubuk Kaleng Merk Indomilk,42567
+22/01/2018,Jagung Pipilan Kecil,15333
+22/01/2018,Garam Beryodium Bata,3760
+22/01/2018,Garam Beryodium Halus,13260
+22/01/2018,Tepung Terigu Segitiga Biru,10140
+22/01/2018,Kacang Kedelai Eks impor,13175
+22/01/2018,Kacang Kedelai Lokal,12000
+22/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+22/01/2018,Cabe Merah Keriting,45840
+22/01/2018,Cabe Merah Besar,46000
+22/01/2018,Cabe Rawit Merah,51160
+22/01/2018,Cabe Rawit Hijau,41600
+22/01/2018,Bawang Merah (Medium),26240
+22/01/2018,Bawang Putih Impor (Kating),28340
+22/01/2018,Bawang Putih Impor (Honan),22500
+22/01/2018,Ikan Teri Asin,111000
+22/01/2018,Ikan Kembung,38300
+22/01/2018,Kacang Hijau,22800
+22/01/2018,Kacang Tanah,25560
+22/01/2018,Ketela Pohon,4800
+23/01/2018,Beras,10975
+23/01/2018,Gula Pasir,14000
+23/01/2018,Minyak Goreng Bimoli Botol,13500
+23/01/2018,Minyak Goreng Curah,12500
+23/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+23/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),123333
+23/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),100000
+23/01/2018,Daging Sapi, Lokal, Daging, Tetelan,78333
+23/01/2018,Daging Sapi, Impor, Beku,85000
+23/01/2018,Daging Sapi, Lokal, Has Dalam,145000
+23/01/2018,Ayam Boiler,36440
+23/01/2018,Ayam Kampung,80075
+23/01/2018,Telur Ayam Ras,23800
+23/01/2018,Telur Ayam Kampung,2110
+23/01/2018,Susu Kental Manis Kaleng Merk Bendera,11940
+23/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10440
+23/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+23/01/2018,Susu Bubuk Kaleng Merk Indomilk,42567
+23/01/2018,Jagung Pipilan Kecil,15333
+23/01/2018,Garam Beryodium Bata,4100
+23/01/2018,Garam Beryodium Halus,11760
+23/01/2018,Tepung Terigu Segitiga Biru,10790
+23/01/2018,Kacang Kedelai Eks impor,13800
+23/01/2018,Kacang Kedelai Lokal,12000
+23/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+23/01/2018,Cabe Merah Keriting,47340
+23/01/2018,Cabe Merah Besar,49000
+23/01/2018,Cabe Rawit Merah,50660
+23/01/2018,Cabe Rawit Hijau,45600
+23/01/2018,Bawang Merah (Medium),26240
+23/01/2018,Bawang Putih Impor (Kating),30440
+23/01/2018,Bawang Putih Impor (Honan),25000
+23/01/2018,Ikan Teri Asin,109000
+23/01/2018,Ikan Kembung,39000
+23/01/2018,Kacang Hijau,22400
+23/01/2018,Kacang Tanah,26260
+23/01/2018,Ketela Pohon,4800
+24/01/2018,Beras,11100
+24/01/2018,Gula Pasir,13900
+24/01/2018,Minyak Goreng Bimoli Botol,13400
+24/01/2018,Minyak Goreng Curah,12500
+24/01/2018,Daging Sapi, Lokal, Paha Belakang,119660
+24/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),120000
+24/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),105000
+24/01/2018,Daging Sapi, Lokal, Daging, Tetelan,63333
+24/01/2018,Daging Sapi, Impor, Beku,85000
+24/01/2018,Daging Sapi, Lokal, Has Dalam,148333
+24/01/2018,Ayam Boiler,37040
+24/01/2018,Ayam Kampung,80075
+24/01/2018,Telur Ayam Ras,23600
+24/01/2018,Telur Ayam Kampung,2160
+24/01/2018,Susu Kental Manis Kaleng Merk Bendera,11840
+24/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10140
+24/01/2018,Susu Bubuk Kaleng Merk Bendera,44100
+24/01/2018,Susu Bubuk Kaleng Merk Indomilk,42567
+24/01/2018,Jagung Pipilan Kecil,15333
+24/01/2018,Garam Beryodium Bata,3760
+24/01/2018,Garam Beryodium Halus,10760
+24/01/2018,Tepung Terigu Segitiga Biru,9940
+24/01/2018,Kacang Kedelai Eks impor,12175
+24/01/2018,Kacang Kedelai Lokal,12000
+24/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+24/01/2018,Cabe Merah Keriting,44140
+24/01/2018,Cabe Merah Besar,48000
+24/01/2018,Cabe Rawit Merah,48660
+24/01/2018,Cabe Rawit Hijau,47100
+24/01/2018,Bawang Merah (Medium),23240
+24/01/2018,Bawang Putih Impor (Kating),26840
+24/01/2018,Bawang Putih Impor (Honan),22500
+24/01/2018,Ikan Teri Asin,108000
+24/01/2018,Ikan Kembung,37800
+24/01/2018,Kacang Hijau,21400
+24/01/2018,Kacang Tanah,24860
+24/01/2018,Ketela Pohon,4800
+25/01/2018,Beras,11113
+25/01/2018,Gula Pasir,13590
+25/01/2018,Minyak Goreng Bimoli Botol,13610
+25/01/2018,Minyak Goreng Curah,12575
+25/01/2018,Daging Sapi, Lokal, Paha Belakang,117660
+25/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+25/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),87667
+25/01/2018,Daging Sapi, Lokal, Daging, Tetelan,72667
+25/01/2018,Daging Sapi, Impor, Beku,87500
+25/01/2018,Daging Sapi, Lokal, Has Dalam,144167
+25/01/2018,Ayam Boiler,37940
+25/01/2018,Ayam Kampung,80333
+25/01/2018,Telur Ayam Ras,23460
+25/01/2018,Telur Ayam Kampung,2120
+25/01/2018,Susu Kental Manis Kaleng Merk Bendera,11900
+25/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10160
+25/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+25/01/2018,Susu Bubuk Kaleng Merk Indomilk,42433
+25/01/2018,Jagung Pipilan Kecil,15433
+25/01/2018,Garam Beryodium Bata,4060
+25/01/2018,Garam Beryodium Halus,10860
+25/01/2018,Tepung Terigu Segitiga Biru,10190
+25/01/2018,Kacang Kedelai Eks impor,12500
+25/01/2018,Kacang Kedelai Lokal,10850
+25/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+25/01/2018,Cabe Merah Keriting,44460
+25/01/2018,Cabe Merah Besar,46040
+25/01/2018,Cabe Rawit Merah,48340
+25/01/2018,Cabe Rawit Hijau,47040
+25/01/2018,Bawang Merah (Medium),23940
+25/01/2018,Bawang Putih Impor (Kating),27560
+25/01/2018,Bawang Putih Impor (Honan),24500
+25/01/2018,Ikan Teri Asin,110000
+25/01/2018,Ikan Kembung,37800
+25/01/2018,Kacang Hijau,21800
+25/01/2018,Kacang Tanah,24660
+25/01/2018,Ketela Pohon,4740
+26/01/2018,Beras,10925
+26/01/2018,Gula Pasir,13740
+26/01/2018,Minyak Goreng Bimoli Botol,13290
+26/01/2018,Minyak Goreng Curah,12375
+26/01/2018,Daging Sapi, Lokal, Paha Belakang,119000
+26/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),116667
+26/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),91667
+26/01/2018,Daging Sapi, Lokal, Daging, Tetelan,65000
+26/01/2018,Daging Sapi, Impor, Beku,90000
+26/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+26/01/2018,Ayam Boiler,37740
+26/01/2018,Ayam Kampung,80567
+26/01/2018,Telur Ayam Ras,22940
+26/01/2018,Telur Ayam Kampung,2160
+26/01/2018,Susu Kental Manis Kaleng Merk Bendera,11800
+26/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10200
+26/01/2018,Susu Bubuk Kaleng Merk Bendera,43767
+26/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+26/01/2018,Jagung Pipilan Kecil,16000
+26/01/2018,Garam Beryodium Bata,3320
+26/01/2018,Garam Beryodium Halus,11040
+26/01/2018,Tepung Terigu Segitiga Biru,9940
+26/01/2018,Kacang Kedelai Eks impor,12000
+26/01/2018,Kacang Kedelai Lokal,10667
+26/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+26/01/2018,Cabe Merah Keriting,41900
+26/01/2018,Cabe Merah Besar,46460
+26/01/2018,Cabe Rawit Merah,46140
+26/01/2018,Cabe Rawit Hijau,47300
+26/01/2018,Bawang Merah (Medium),24160
+26/01/2018,Bawang Putih Impor (Kating),26340
+26/01/2018,Bawang Putih Impor (Honan),22500
+26/01/2018,Ikan Teri Asin,107000
+26/01/2018,Ikan Kembung,37860
+26/01/2018,Kacang Hijau,21540
+26/01/2018,Kacang Tanah,23500
+26/01/2018,Ketela Pohon,5000
+29/01/2018,Beras,10988
+29/01/2018,Gula Pasir,13840
+29/01/2018,Minyak Goreng Bimoli Botol,13640
+29/01/2018,Minyak Goreng Curah,12563
+29/01/2018,Daging Sapi, Lokal, Paha Belakang,120000
+29/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+29/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),90167
+29/01/2018,Daging Sapi, Lokal, Daging, Tetelan,79333
+29/01/2018,Daging Sapi, Impor, Beku,90000
+29/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+29/01/2018,Ayam Boiler,38740
+29/01/2018,Ayam Kampung,82925
+29/01/2018,Telur Ayam Ras,22840
+29/01/2018,Telur Ayam Kampung,2130
+29/01/2018,Susu Kental Manis Kaleng Merk Bendera,11750
+29/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10200
+29/01/2018,Susu Bubuk Kaleng Merk Bendera,43767
+29/01/2018,Susu Bubuk Kaleng Merk Indomilk,42000
+29/01/2018,Jagung Pipilan Kecil,16000
+29/01/2018,Garam Beryodium Bata,3720
+29/01/2018,Garam Beryodium Halus,11140
+29/01/2018,Tepung Terigu Segitiga Biru,10040
+29/01/2018,Kacang Kedelai Eks impor,12625
+29/01/2018,Kacang Kedelai Lokal,10667
+29/01/2018,Mie Instan Indomie Rasa Kari Ayam,2380
+29/01/2018,Cabe Merah Keriting,43500
+29/01/2018,Cabe Merah Besar,46660
+29/01/2018,Cabe Rawit Merah,47840
+29/01/2018,Cabe Rawit Hijau,45000
+29/01/2018,Bawang Merah (Medium),23760
+29/01/2018,Bawang Putih Impor (Kating),28140
+29/01/2018,Bawang Putih Impor (Honan),23500
+29/01/2018,Ikan Teri Asin,108000
+29/01/2018,Ikan Kembung,38860
+29/01/2018,Kacang Hijau,21740
+29/01/2018,Kacang Tanah,23800
+29/01/2018,Ketela Pohon,5100
+30/01/2018,Beras,10988
+30/01/2018,Gula Pasir,13940
+30/01/2018,Minyak Goreng Bimoli Botol,13560
+30/01/2018,Minyak Goreng Curah,12488
+30/01/2018,Daging Sapi, Lokal, Paha Belakang,120000
+30/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+30/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),90167
+30/01/2018,Daging Sapi, Lokal, Daging, Tetelan,79333
+30/01/2018,Daging Sapi, Impor, Beku,89150
+30/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+30/01/2018,Ayam Boiler,38540
+30/01/2018,Ayam Kampung,82925
+30/01/2018,Telur Ayam Ras,22960
+30/01/2018,Telur Ayam Kampung,2170
+30/01/2018,Susu Kental Manis Kaleng Merk Bendera,11710
+30/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10140
+30/01/2018,Susu Bubuk Kaleng Merk Bendera,44567
+30/01/2018,Susu Bubuk Kaleng Merk Indomilk,42833
+30/01/2018,Jagung Pipilan Kecil,15900
+30/01/2018,Garam Beryodium Bata,4200
+30/01/2018,Garam Beryodium Halus,11400
+30/01/2018,Tepung Terigu Segitiga Biru,10000
+30/01/2018,Kacang Kedelai Eks impor,12550
+30/01/2018,Kacang Kedelai Lokal,10667
+30/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+30/01/2018,Cabe Merah Keriting,43840
+30/01/2018,Cabe Merah Besar,46740
+30/01/2018,Cabe Rawit Merah,46960
+30/01/2018,Cabe Rawit Hijau,44460
+30/01/2018,Bawang Merah (Medium),23760
+30/01/2018,Bawang Putih Impor (Kating),27460
+30/01/2018,Bawang Putih Impor (Honan),23500
+30/01/2018,Ikan Teri Asin,98260
+30/01/2018,Ikan Kembung,38660
+30/01/2018,Kacang Hijau,22060
+30/01/2018,Kacang Tanah,24000
+30/01/2018,Ketela Pohon,4960
+31/01/2018,Beras,10988
+31/01/2018,Gula Pasir,14040
+31/01/2018,Minyak Goreng Bimoli Botol,13540
+31/01/2018,Minyak Goreng Curah,12575
+31/01/2018,Daging Sapi, Lokal, Paha Belakang,121000
+31/01/2018,Daging Sapi, Lokal, Daging, Has Luar (Sirloin),118333
+31/01/2018,Daging Sapi, Lokal, Daging, Sandung Lamur (Brisket),89333
+31/01/2018,Daging Sapi, Lokal, Daging, Tetelan,71000
+31/01/2018,Daging Sapi, Impor, Beku,89150
+31/01/2018,Daging Sapi, Lokal, Has Dalam,143333
+31/01/2018,Ayam Boiler,38540
+31/01/2018,Ayam Kampung,74750
+31/01/2018,Telur Ayam Ras,22860
+31/01/2018,Telur Ayam Kampung,2120
+31/01/2018,Susu Kental Manis Kaleng Merk Bendera,11750
+31/01/2018,Susu Kental Manis Kaleng Merk Indomilk,10160
+31/01/2018,Susu Bubuk Kaleng Merk Bendera,43667
+31/01/2018,Susu Bubuk Kaleng Merk Indomilk,42433
+31/01/2018,Jagung Pipilan Kecil,15900
+31/01/2018,Garam Beryodium Bata,3700
+31/01/2018,Garam Beryodium Halus,10460
+31/01/2018,Tepung Terigu Segitiga Biru,10300
+31/01/2018,Kacang Kedelai Eks impor,12000
+31/01/2018,Kacang Kedelai Lokal,10433
+31/01/2018,Mie Instan Indomie Rasa Kari Ayam,2400
+31/01/2018,Cabe Merah Keriting,42960
+31/01/2018,Cabe Merah Besar,46040
+31/01/2018,Cabe Rawit Merah,47500
+31/01/2018,Cabe Rawit Hijau,45500
+31/01/2018,Bawang Merah (Medium),24760
+31/01/2018,Bawang Putih Impor (Kating),26760
+31/01/2018,Bawang Putih Impor (Honan),26000
+31/01/2018,Ikan Teri Asin,107160
+31/01/2018,Ikan Kembung,38840
+31/01/2018,Kacang Hijau,21640
+31/01/2018,Kacang Tanah,23900
+31/01/2018,Ketela Pohon,4860
